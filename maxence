@@ -1,0 +1,39 @@
+<!doctype html>
+<!--On définit que notre code est en HTML 5 -->
+
+<!-- toutes les pages web sont contenues dans une balise HTML -->
+<html>
+    <!-- dans la balise head on met des infos relatves à notre page mais qui ne seront pas affichées -->
+    <head>
+        <!-- le type d'encodage des caractères. UTF-8 est le plus répandu -->
+        <meta charset="utf-8"/>
+        <!-- la description est adressée au moteur de recherche, elle sert au référencement et apparait en description -->
+        <meta name="description" content="Portfolio de Maxence"/>
+        
+        <title>Voici mon Portfolio           </title>
+    </head>
+    
+    <body>
+        <h1>Mon Portfolio</h1>
+        <p>Bonjour je m'appelle Maxence j'ai 20 ans et je suis actuellement en formation BAC+ 3 en licence professionnelle innovation numérique au sein de l'école Estienne
+        </p> Je compte poursuivre ensuite mes études afin de réaliser un Master en Communication/Marketing et d'ensuite intégrer une agence de communication au poste de chef de projet de communication. </p>
+        <hr>
+    
+
+        <h2>Réseaux sociaux</h2>
+        <ul>
+        
+            <a href="https://www.instagram.com/maxouew/" title="Page Instagram" target="_blank"></a>
+            <a href="https://www.twitter.com/maxouew" title="Page Twitter" target="_blank"></a>
+            <a href=mailto:contactpro.maxence@gmail.com"></a>
+        </ul>
+        
+        
+        <img src="https://media.ouest-france.fr/v1/pictures/MjAyMDExNjM1YzM2YmMwMDFhMWU4OGIyZWZmZWE4NDFjNjE1OGM?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b294214bb43842e4d1d7d68e69555338103746f7a506c68b6b770060799ce554" alt="Stage" height="300" >
+
+
+    
+    
+    
+    </body>
+</html>
